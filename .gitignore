@@ -3,6 +3,7 @@ Include
 Lib
 Scripts
 share
+qr-tgbot
 qrcontrol.py
 config.py
 *.cfg
